@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Deloitte.Towers.Parking.Infrastructure.Database", "Deloitte.Towers.Parking.Infrastructure.Database\Deloitte.Towers.Parking.Infrastructure.Database.sqlproj", "{1EFD474D-D800-4C86-AC79-3CAAA9F7C1E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DEV|Any CPU = DEV|Any CPU
+		PRD|Any CPU = PRD|Any CPU
+		QAS|Any CPU = QAS|Any CPU
+		Release|Any CPU = Release|Any CPU
+		STG|Any CPU = STG|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EFD474D-D800-4C86-AC79-3CAAA9F7C1E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFD474D-D800-4C86-AC79-3CAAA9F7C1E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFD474D-D800-4C86-AC79-3CAAA9F7C1E6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1EFD474D-D800-4C86-AC79-3CAAA9F7C1E6}.DEV|Any CPU.ActiveCfg = DEV|Any CPU
+		{1EFD474D-D800-4C86-AC79-3CAAA9F7C1E6}.DEV|Any CPU.Build.0 = DEV|Any CPU
+		{1EFD474D-D800-4C86-AC79-3CAAA9F7C1E6}.DEV|Any CPU.Deploy.0 = DEV|Any CPU
+		{1EFD474D-D800-4C86-AC79-3CAAA9F7C1E6}.PRD|Any CPU.ActiveCfg = PRD|Any CPU
+		{1EFD474D-D800-4C86-AC79-3CAAA9F7C1E6}.PRD|Any CPU.Build.0 = PRD|Any CPU
+		{1EFD474D-D800-4C86-AC79-3CAAA9F7C1E6}.PRD|Any CPU.Deploy.0 = PRD|Any CPU
+		{1EFD474D-D800-4C86-AC79-3CAAA9F7C1E6}.QAS|Any CPU.ActiveCfg = QAS|Any CPU
+		{1EFD474D-D800-4C86-AC79-3CAAA9F7C1E6}.QAS|Any CPU.Build.0 = QAS|Any CPU
+		{1EFD474D-D800-4C86-AC79-3CAAA9F7C1E6}.QAS|Any CPU.Deploy.0 = QAS|Any CPU
+		{1EFD474D-D800-4C86-AC79-3CAAA9F7C1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFD474D-D800-4C86-AC79-3CAAA9F7C1E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EFD474D-D800-4C86-AC79-3CAAA9F7C1E6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1EFD474D-D800-4C86-AC79-3CAAA9F7C1E6}.STG|Any CPU.ActiveCfg = STG|Any CPU
+		{1EFD474D-D800-4C86-AC79-3CAAA9F7C1E6}.STG|Any CPU.Build.0 = STG|Any CPU
+		{1EFD474D-D800-4C86-AC79-3CAAA9F7C1E6}.STG|Any CPU.Deploy.0 = STG|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66A147EF-C3CF-4EAC-99AE-3FBA7F55868F}
+	EndGlobalSection
+EndGlobal
